@@ -38,6 +38,6 @@ I am also working on a new portfolio website with a blog part where I will share
 target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linkedin.svg" height="40" width="40"/></a> 
 <a href="https://twitter.com/maxbrundev" 
 target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/twitter.svg" height="40" width="40"/></a>
-<a href="https://www.youtube.com/user/maxbrundev" 
+<a href="https://www.youtube.com/channel/UCl_kyBuX7qSY3B607lb_PSg" 
 target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/youtube.svg" height="40" width="40"/></a>
 </p>
