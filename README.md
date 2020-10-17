@@ -7,8 +7,7 @@
 
 💡 During my free time, I work on my personal Game Engine and 3D Programming projects
 
-🚀 You can take a look at my [Portfolio](https://maxbrun.wixsite.com/maxbrundevelopment)
-
+🚀 You can take a look at my [Portfolio](https://maxbrun.wixsite.com/maxbrundevelopment)\
 I am also working on a new portfolio website with a blog part where I will share my 3D programming knowledge through different articles.
 
 
