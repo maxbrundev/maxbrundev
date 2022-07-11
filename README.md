@@ -1,7 +1,9 @@
 <h1 align="center">Hi everyone! 👋 </br> I'm Max Brun</h1>
-<h3 align="center">Gameplay Programmer at Nvizzio Creations</h3>
+<h3 align="center">Gameplay Programmer at Gameloft Paris for the GameLab</h3>
 
-🤖 I am currently working on RollerCoaster Tycoon Touch 🎢
+🤖 I am currently working on prototypes for the Gameloft's GameLab 🧪
+
+🎮 Previously working on RollerCoaster Tycoon Touch at Nvizzio Creations 🎢
 
 ⚡ I am Co-Creator of [Overload Engine](https://github.com/adriengivry/Overload) an open-source game engine project initiated during my studies and now a community project that I personally use to learn and experiment features implementation and 3D Rendering pipeline architecture and manipulation
 
