@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone! 👋 </br> I'm Max Brun</h1>
 <h3 align="center">Gameplay Programmer at Gameloft Paris for the GameLab</h3>
 
-🤖 I am currently working on prototypes for the Gameloft's GameLab 🧪
+🤖 I am currently working on prototypes for the Gameloft's GameLab 🧪 / Support Optimization Programmer on Disney Dreamlight Valley ✨
 
 🎮 Previously working on RollerCoaster Tycoon Touch at Nvizzio Creations 🎢
 
