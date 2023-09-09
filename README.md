@@ -1,21 +1,18 @@
 <h1 align="center">Hi everyone! 👋 </br> I'm Max Brun</h1>
 <h3 align="center">Gameplay Programmer at Gameloft Paris for the GameLab</h3>
 
-🤖 I am currently working on prototypes for the Gameloft's GameLab 🧪 / Support Optimization Programmer on Disney Dreamlight Valley ✨
+🤖 I am currently working as a Gameplay / Game System Programmer at Gameloft's GameLab 🧪 / Support Optimization Programmer on Disney Dreamlight Valley ✨
 
 🎮 Previously working on RollerCoaster Tycoon Touch at Nvizzio Creations 🎢
 
-⚡ I am Co-Creator of [Overload Engine](https://github.com/adriengivry/Overload) an open-source game engine project initiated during my studies and now a community project that I personally use to learn and experiment features implementation and 3D Rendering pipeline architecture and manipulation
+⚡ I am Co-founder of [Overload Engine](https://github.com/adriengivry/Overload) an open-source game engine project initiated during my studies and now a community project that I personally use to learn and experiment features implementation and 3D Rendering pipeline architecture and manipulation
 
-💡 During my free time, I work on my personal Game Engine and 3D Programming projects
+💡 During my free time, I work on my personal Game Engine, 3D Programming projects and generic Game Systems
 
-🚀 You can take a look at my [Portfolio](https://maxbrun.wixsite.com/maxbrundevelopment)\
+🚀 You can take a look at my [Portfolio](https://maxbrundev.com)
 I am also working on a new portfolio website with a blog part where I will share my 3D programming knowledge through different articles.
 
-
-📧 maxbrundev@gmail.com
-
-**WIP HYPE** 😄
+📧 contact@maxbrundev.com
 
 <table>
   <tr> 
