@@ -14,7 +14,7 @@ Gameplay / Game Systems Programmer @ New Tales 🌌
 
 ⚡ Working actively during free time on:   
 🏵️ [Amber Engine](https://github.com/maxbrundev/Amberengine) open-source 3D Game Engine based on Overload with an imediate mode UI aproach   
-📐 [Amber Razer](https://github.com/maxbrundev/Rasterizer) Rasterizer CPU Software renderer
+📐 [Amber Razer](https://github.com/maxbrundev/Rasterizer) Rasterizer CPU Software renderer   
 🛠️ Amber Framework Data driven Game Framework composed by multiples independent generic systems (Abilities, Action Phase, Entities, UI...) 
 
 🚀 You can take a look at my [Portfolio](https://maxbrundev.com) WIP
