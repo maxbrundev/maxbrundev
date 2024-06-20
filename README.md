@@ -1,13 +1,21 @@
 <h1 align="center">Hi everyone! 👋 </br> I'm Max Brun</h1>
-<h3 align="center">Gameplay Programmer at Gameloft Paris for the GameLab</h3>
+<h3 align="center">Gameplay Programmer at New Tales</h3>
 
-🤖 I am currently working as a Gameplay / Game System Programmer at Gameloft's GameLab 🧪 / Support Optimization Programmer on Disney Dreamlight Valley ✨
+Gameplay / Game Systems Programmer @ New Tales 🌌
 
-🎮 Previously working on RollerCoaster Tycoon Touch at Nvizzio Creations 🎢
+📑 EX-Gameplay / Optimization Support Programmer @ Gameloft - Research Lab 🧪,  New unreleased(soon) IP,  Disney Dreamlight Valley ✨  
+📑 Ex-Gameplay Programmer @ Nvizzio Creations - RollerCoaster Tycoon Touch 🎢
 
-⚡ I am Co-founder of [Overload Engine](https://github.com/adriengivry/Overload) an open-source game engine project initiated during my studies and now a community project that I personally use to learn and experiment features implementation and 3D Rendering pipeline architecture and manipulation
+⚙️ Co-founder of [Overload Engine](https://github.com/adriengivry/Overload)   
+👁️‍🗨️ Developed Data Driven View System for Gameloft in-game UI management   
+💡 Developed Game Dependencies Core Systems and Game State related systems for ECS initialization for Gameloft   
+🎡 Developed fireworks customization, Data driven Seasonal Updates content for RollerCoaster Tycoon Touch   
+...
 
-💡 During my free time, I work on my personal Game Engine, 3D Programming projects and generic Game Systems
+⚡ Working actively during free time on:   
+🏵️ [Amber Engine](https://github.com/maxbrundev/Amberengine) open-source 3D Game Engine based on Overload with an imediate mode UI aproach   
+📐 [Amber Razer](https://github.com/maxbrundev/Rasterizer) Rasterizer CPU Software renderer
+🛠️ Amber Framework Data driven Game Framework composed by multiples independent generic systems (Abilities, Action Phase, Entities, UI...) 
 
 🚀 You can take a look at my [Portfolio](https://maxbrundev.com) WIP
 
