@@ -3,19 +3,19 @@
 
 Gameplay / Game Systems Programmer @ New Tales 🌌
 
-📑 EX-Gameplay / Optimization Support Programmer @ Gameloft - Research Lab 🧪,  New unreleased(soon) IP,  Disney Dreamlight Valley ✨  
+📑 Ex-Gameplay / Optimization Support Programmer @ Gameloft - Research Lab 🧪,  New unreleased(soon) IP,  Disney Dreamlight Valley ✨  
 📑 Ex-Gameplay Programmer @ Nvizzio Creations - RollerCoaster Tycoon Touch 🎢
 
 ⚙️ Co-founder of [Overload Engine](https://github.com/adriengivry/Overload)   
-👁️‍🗨️ Developed Data Driven View System for Gameloft in-game UI management   
+👁️‍🗨️ Developed data driven View System for Gameloft's in-game UI management   
 💡 Developed Game Dependencies Core Systems and Game State related systems for ECS initialization for Gameloft   
-🎡 Developed fireworks customization, Data driven Seasonal Updates content for RollerCoaster Tycoon Touch   
+🎡 Developed fireworks customization, data driven seasonal updates content, new soft currency, integration of partners seasonal content (Six Flags, Shaun the Sheep) for RollerCoaster Tycoon Touch   
 ...
 
 ⚡ Working actively during free time on:   
-🏵️ [Amber Engine](https://github.com/maxbrundev/Amberengine) open-source 3D Game Engine based on Overload with an imediate mode UI aproach   
-📐 [Amber Razer](https://github.com/maxbrundev/Rasterizer) Rasterizer CPU Software renderer   
-🛠️ Amber Framework Data driven Game Framework composed by multiples independent generic systems (Abilities, Action Phase, Entities, UI...) 
+🏵️ [Amber Engine](https://github.com/maxbrundev/Amberengine) open-source 3D Game Engine based on Overload without the Dear IMGUI 
+📐 [Amber Razer](https://github.com/maxbrundev/Rasterizer) Rasterizer CPU software renderer   
+🛠️ Amber Framework data driven Game Framework composed by multiples independent game agnostic systems (Abilities, Action Phase, Entities, UI...) 
 
 🚀 You can take a look at my [Portfolio](https://maxbrundev.com) WIP
 
