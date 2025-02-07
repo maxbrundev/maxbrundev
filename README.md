@@ -1,22 +1,28 @@
-<h1 align="center">Hi everyone! 👋 </br> I'm Max Brun</h1>
-<h3 align="center">Gameplay Programmer at New Tales</h3>
+<p align="center" style="margin-bottom: 0;">
+  <img src="https://github.com/user-attachments/assets/03fe631c-f713-4754-91d3-f44abeeddc4b" alt="Logo" />
+</p>
 
-Gameplay / Game Systems Programmer @ New Tales 🌌
+<p align="center">
+  <strong>Game Systems Programmer at <a href="https://newtales.com">New Tales</strong></a> 🌌
+</p>
 
-Working on an unannounced new IP (soon!!)  
-Unreal Engine 5 but in house Systems
+### 🎯 **About Me**  
+- 🌌 **Game Systems Programmer** @ **New Tales** - *Unannounced AAA New IP*   
+Unreal Engine 5 in-house Systems
 
-📑 Ex Gameplay / Optimization Support Programmer @ Gameloft - Research Lab 🧪, Disney Dreamlight Valley ✨  
-📑 Ex Gameplay Programmer @ Nvizzio Creations - RollerCoaster Tycoon® Touch™ 🎢
+⚙️ Co-founder of [**Overload Engine**](https://github.com/adriengivry/Overload) an open source 3D Game Engine with Lua scripting
 
-⚙️ Co-founder of [Overload Engine](https://github.com/adriengivry/Overload) an open source 3D Game Engine
+### ⚔️ **Professional Experience**  
+- 🏷️ **Former Gameplay / Optimization Support Programmer @ Gameloft** - Research Lab 🧪 & Disney Dreamlight Valley ✨
+- 🏷️ **Former Gameplay Programmer @ Nvizzio Creations** - RollerCoaster Tycoon® Touch™ 🎢
 
-⚡ Working actively during free time on:   
-🏵️ [Amber Engine](https://github.com/maxbrundev/Amberengine) open-source 3D Game Engine based on Overload  
-📐 [Amber Razer](https://github.com/maxbrundev/Rasterizer) Rasterizer CPU software renderer  
-🛠️ Amber Framework a data driven Game Framework composed by multiples independent game agnostic systems (Abilities, Action Phase, Entities, UI...)
+### ⚡ **Projects & Contributions**
+- ⚒️ [**Amber Engine**](https://github.com/maxbrundev/Amberengine) open-source 3D Game Engine based on Overload
+- 📐 [**Amber Razer**](https://github.com/maxbrundev/Rasterizer) CPU Software Rasterizer
+- 🧰 **Amber Framework** a data driven game framework built from modular, game-agnostic systems (Abilities, Action Phase, Entities, UI, etc.)  
+...
 
-🚀 You can take a look at my [Portfolio](https://maxbrundev.com) WIP
+🚀 **You can take a look at my [Portfolio](https://maxbrundev.com)**
 
 <table>
   <tr> 
@@ -28,10 +34,4 @@ Unreal Engine 5 but in house Systems
       </td> 
     </tr>
 </table>
-
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=maxbrundev&repo=AmberEngine&theme=dracula)](https://github.com/maxbrundev/AmberEngine)
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=maxbrundev&repo=AmberCraft&theme=dracula)](https://github.com/maxbrundev/AmberCraft)
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=maxbrundev&repo=Rasterizer&theme=dracula)](https://github.com/maxbrundev/Rasterizer)
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=maxbrundev&repo=Overload&theme=dracula)](https://github.com/maxbrundev/Overload)
-
 </br>
