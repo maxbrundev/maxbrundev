@@ -10,7 +10,7 @@
 - 🌌 **Game Systems Programmer** @ **New Tales** - *Unannounced AAA New IP*   
 Unreal Engine 5 in-house Systems
 
-⚙️ Co-founder of [**Overload Engine**](https://github.com/adriengivry/Overload) an open source 3D Game Engine with Lua scripting
+⚙️ Co-founder of [**Overload Engine**](https://github.com/Overload-Technologies/Overload) an open source 3D Game Engine with Lua scripting
 
 ### ⚔️ **Professional Experience**  
 - 🏷️ **Former Gameplay / Optimization Support Programmer @ Gameloft** - Research Lab 🧪 & Disney Dreamlight Valley ✨
