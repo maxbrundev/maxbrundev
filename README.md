@@ -18,7 +18,7 @@ Unreal Engine 5 in-house Systems
 
 ### ⚡ **Projects & Contributions**
 - ⚒️ [**Amber Engine**](https://github.com/maxbrundev/Amberengine) open-source 3D Game Engine based on Overload
-- 📐 [**Amber Razer**](https://github.com/maxbrundev/Rasterizer) CPU Software Rasterizer
+- 📐 [**Amber Razer**](https://github.com/maxbrundev/Rasterizer) CPU Software Renderer
 - 🧰 **Amber Framework** a data driven game framework built from modular, game-agnostic systems (Abilities, Action Phase, Entities, UI, etc.)  
 ...
 
