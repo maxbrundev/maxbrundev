@@ -7,8 +7,7 @@
 </p>
 
 ### 🎯 **About Me**  
-- 🌌 **Game Systems Programmer** @ **New Tales** - *Unannounced AAA New IP*   
-Unreal Engine 5 in-house Systems
+- 🌌 **Game Systems Programmer** @ **New Tales** - working on [**Fading Echo**](https://store.steampowered.com/app/2467880/Fading_Echo/)
 
 ⚙️ Co-founder of [**Overload Engine**](https://github.com/Overload-Technologies/Overload) an open source 3D Game Engine with Lua scripting
 
@@ -18,7 +17,7 @@ Unreal Engine 5 in-house Systems
 
 ### ⚡ **Projects & Contributions**
 - ⚒️ [**Amber Engine**](https://github.com/maxbrundev/Amberengine) open-source 3D Game Engine based on Overload
-- 📐 [**Amber Razer**](https://github.com/maxbrundev/Rasterizer) CPU Software Renderer
+- 📐 [**AmberGL**](https://github.com/maxbrundev/Rasterizer) CPU Software Renderer
 - 🧰 **Amber Framework** a data driven game framework built from modular, game-agnostic systems (Abilities, Action Phase, Entities, UI, etc.)  
 ...
 
