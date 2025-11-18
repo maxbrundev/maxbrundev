@@ -21,7 +21,11 @@
 - 🧰 **Amber Framework** a data driven game framework built from modular, game-agnostic systems (Abilities, Action Phase, Entities, UI, etc.)  
 ...
 
-🚀 **You can take a look at my [Portfolio](https://maxbrundev.com)**
+<div align="center">
+
+**🚀 You can take a look at my Portfolio on my [website](https://maxbrundev.com) 🚀**
+
+</div>
 
 <table>
   <tr> 
