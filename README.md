@@ -23,18 +23,6 @@
 
 <div align="center">
 
-**🚀 You can take a look at my Portfolio on my [website](https://maxbrundev.com) 🚀**
+**🚀 Take a look at my Portfolio on my [website](https://maxbrundev.com)! 🚀**
 
 </div>
-
-<table>
-  <tr> 
-  <td align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=maxbrundev&theme=dracula&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&hide_border=false"/> 
-      </td>
-  <td align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxbrundev&layout=compact&theme=dracula"/> 
-      </td> 
-    </tr>
-</table>
-</br>
