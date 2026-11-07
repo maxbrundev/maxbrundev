@@ -14,8 +14,8 @@ Now working on the studio's game-agnostic framework
 ❄️🫕 Alps cold and Canadian cold: I've worked through both 🏔️🍁
 
 ### ⚔️ **Professional Experience**
-- 🏷️ **Former Gameplay / Optimization Support Programmer @ Gameloft** - Research Lab 🧪 & Disney Dreamlight Valley ✨
-- 🏷️ **Former Gameplay Programmer @ Nvizzio Creations** - RollerCoaster Tycoon® Touch™ 🎢
+- 🏷️ **Former Gameplay / Optimization Support Programmer @ Gameloft** - Research Lab 🧪 & [Disney Dreamlight Valley](https://store.steampowered.com/app/1401590/Disney_Dreamlight_Valley/) ✨
+- 🏷️ **Former Gameplay Programmer @ Nvizzio Creations** - [RollerCoaster Tycoon® Touch™](https://play.google.com/store/apps/details?id=com.atari.mobile.rctempire) 🎢
 
 ### 🏰 **Projects & Contributions**
 - ⚒️ [**Amber Engine**](https://github.com/maxbrundev/Amberengine) open-source 3D Game Engine based on Overload
