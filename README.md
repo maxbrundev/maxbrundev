@@ -6,7 +6,7 @@
 </p>
 
 ### 🎯 **About Me**
-- 🌌 **Software Engineer** @ **New Tales** - shipped [**Fading Echo**](https://store.steampowered.com/app/2467880/Fading_Echo/) (PC, Xbox Series X|S, PS5, Switch 2)   
+- 🌌 **Software Engineer** @ **New Tales** (Unreal Engine 5) - shipped [**Fading Echo**](https://store.steampowered.com/app/2467880/Fading_Echo/) (PC, Xbox Series X|S, PS5, Switch 2)   
 Now working on the studio's game-agnostic framework
 
 ⚙️ Co-founder of [**Overload Engine**](https://github.com/Overload-Technologies/Overload) an open source 3D Game Engine with Lua scripting
