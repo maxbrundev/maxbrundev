@@ -1,5 +1,5 @@
 <p align="center" style="margin-bottom: 0;">
-  <img src="https://github.com/user-attachments/assets/03fe631c-f713-4754-91d3-f44abeeddc4b" alt="Logo" />
+  <img width="1600" height="500" alt="banner" src="https://github.com/user-attachments/assets/54906d7d-9515-41b3-805c-deacd2c8a04d" />
 </p>
 <p align="center">
   <strong>Game Systems Programmer at <a href="https://newtales.com">New Tales</a></strong> 🌌
